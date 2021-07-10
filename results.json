@@ -1,1 +1,1 @@
-{"CfIpCountry": {"US": 68, "HK": 13, "CN": 153}, "TlsVersion": {"TLSv1.3": 177, "TLSv1.2": 52}}
+{"CfIpCountry": {"legend": ["HK", "CN", "US"], "series": [{"name": "HK", "value": 13}, {"name": "CN", "value": 153}, {"name": "US", "value": 68}]}, "TlsVersion": {"legend": ["TLSv1.2", "TLSv1.3"], "series": [{"name": "TLSv1.2", "value": 52}, {"name": "TLSv1.3", "value": 177}]}}
